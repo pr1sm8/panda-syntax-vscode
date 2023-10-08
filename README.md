@@ -1,9 +1,9 @@
-![Panda Logo](https://cdn.rawgit.com/tinkertrain/panda-syntax-vscode/master/assets/cover.jpg)
+![Panda Logo](https://cdn.rawgit.com/pr1sm8/panda-syntax-vscode/master/assets/cover.jpg)
 
 A _Superminimal_, _dark_ Syntax Theme. This is the latest version of the **Panda Syntax** theme. It's a _dark_ syntax theme crafted especially for [Visual Studio Code](https://code.visualstudio.com) [New Version], with subtle colors that are meant to be easy on the eyes.
 
 ---
-![Main ScreenShot](https://cdn.rawgit.com/tinkertrain/panda-syntax-vscode/master/assets/editor.jpg)
+![Main ScreenShot](https://cdn.rawgit.com/pr1sm8/panda-syntax-vscode/master/assets/editor.jpg)
 > The font in the screenshot is `Operator Mono`. From $199, exclusively at H&Co. http://www.typography.com/blog/introducing-operator
 
 ---
@@ -34,7 +34,7 @@ Panda Created for Editors and Terminals. [Panda Project](http://panda.siamak.wor
 
 ## 🐛 Issues and contributing
 If you would like to create a new Issue or PR, please do so in:
-* This repo if it's about color changes, first read [Color Semantics](https://github.com/tinkertrain/panda-syntax-vscode/blob/master/Color%20Semantics.md) and Change `themes` files.
+* This repo if it's about color changes, first read [Color Semantics](https://github.com/pr1sm8/panda-syntax-vscode/blob/master/Color%20Semantics.md) and Change `themes` files.
 
 ## 🐼 About Pandas
 ![Pandas ScreenShot](https://raw.githubusercontent.com/siamak/atom-panda-syntax/master/screenshots/pandas.png)
